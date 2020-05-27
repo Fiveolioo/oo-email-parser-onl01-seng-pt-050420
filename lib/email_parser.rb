@@ -10,6 +10,6 @@ class EmailAddressParser
   end
 
   def parse
-  
+   puts email
   end
 end
